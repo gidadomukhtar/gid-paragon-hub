@@ -44,3 +44,29 @@ Build a strong profile for internships and early-career opportunities.
 - Track merged PRs and link them on LinkedIn/resume
 - Write short reflections on what you learned
 - Contribute consistently over time
+
+🎓 5 Things School Probably Won't Teach You (But Every Tech Student Should Learn)
+
+You can graduate with excellent grades and still struggle in the tech industry if you never learn these:
+
+1️⃣ How to Use Git &amp; GitHub
+
+Modern software isn't built alone. Git and GitHub help developers collaborate, manage code, and contribute to open-source projects.
+
+2️⃣ How to Build a Portfolio
+
+Employers and clients don't just want to hear what you know—they want to see what you've built. Start creating projects early.
+
+3️⃣ How to Find Opportunities
+
+Internships, hackathons, scholarships, open-source programs, and developer communities can change your career—but many students never hear about them.
+
+4️⃣ Communication &amp; Teamwork
+
+Writing clean code is important, but explaining your ideas, working with others, and giving constructive feedback are just as valuable.
+
+5️⃣ Continuous Learning
+
+Technology changes fast. The developers who keep learning are the ones who keep growing. Your degree is only the beginning.
+
+📌 School gives you a foundation. What you do outside the classroom often determines how far you'll go.
